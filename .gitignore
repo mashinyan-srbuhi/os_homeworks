@@ -1,0 +1,14 @@
+# Compiled executables
+task[0-9]*
+!task[0-9]*.c
+
+# Object files
+*.o
+
+# Other common build output
+*.out
+*.exe
+
+# Editor / OS junk
+.DS_Store
+*~
